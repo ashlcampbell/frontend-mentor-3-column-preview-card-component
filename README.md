@@ -54,7 +54,7 @@ I have basic HTML and CSS knowledge and was able to complete the majority of the
 
 ### Continued development
 
-I'm curently working through Angela Yu's The Complete 2021 Web Development Bootcamp on Udemy [https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/13306918#overview]. I will need to supplement this because it does not cover Flexbox or Grid, which I expect I will need for future challenges. 
+I'm curently working through Angela Yu's The Complete 2021 Web Development Bootcamp on [Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/13306918#overview). I will need to supplement this because it does not cover Flexbox or Grid, which I expect I will need for future challenges. 
 
 I'm also planning to work through FreeCodeCamp's [Response Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) tutorials. 
 
