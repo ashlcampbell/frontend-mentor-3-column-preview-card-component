@@ -56,14 +56,12 @@ button:hover {
 .button-third{
     color: hsl(179, 100%, 13%);
 }
-
+ 
 
 .card {
-    display: inline-block;
     height: 350px;
     width: 200px;
     padding: 40px;
-    margin: 0 -4px 0 -4px;
     text-align: left;
     
 }
@@ -84,9 +82,12 @@ button:hover {
 
 .stack {
     margin: 200px 0 200px 0;
+    display: flex;
+    justify-content: center;
+    
 }
 
-@media only screen and (max-width: 852px) {
+@media(max-width:675px){
     /* For mobile phones: */
     .card {
         display: block;
@@ -101,5 +102,7 @@ button:hover {
 
     .stack {
         margin-top: 50px;
+        display: flex;
+        flex-direction: column;
     }
   } 
