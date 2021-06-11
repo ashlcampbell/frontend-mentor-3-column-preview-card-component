@@ -42,7 +42,9 @@ Users should be able to:
 
 ### What I learned
 
-This was my first Frontend Mentor challenge, and I had a lot of fun completing it. I'm very excited about finding this site and building my frontend knowledge!
+This was my first Frontend Mentor challenge, and I had a lot of fun completing it. 
+
+Update: I have modified my code to use Flexbox instead of hacking the whitespace left with inline-block.
 
 I have basic HTML and CSS knowledge and was able to complete the majority of the project without referring to resources. The areas that were the biggest challenge for me were: 
 - Removing the whitespace between the card divs. I found [an article](https://css-tricks.com/fighting-the-space-between-inline-block-elements/) on css-tricks with various ways to tackle this, and I opted for the negative margin technique. 
